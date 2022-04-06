@@ -1,8 +1,7 @@
 ---
 title: Video
 background_image: bg.jpg
-video_webm: http://alvarez.is/bt/appi.webm
-video_mp4: http://alvarez.is/bt/appi.mp4
+video_mp4: user/pages/01.home/_herohome/bg.mp4
 heading: Your App. <span>Reinvented.</span>
 subheading: Lorem Ipsum is simply dummy text of the <br class="hidden-xs">printing and typesetting industry.
 buttons:
